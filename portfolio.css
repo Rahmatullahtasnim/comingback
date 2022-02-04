@@ -7,3 +7,12 @@ h1{
 .name-highlight{
     color: orange;
 }
+.Share-side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.Share-side img{
+    width: 100%;
+}
