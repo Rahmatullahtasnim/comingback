@@ -43,3 +43,13 @@ section{
 .color{
     color: rgb(52, 211, 31);
 }
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+}
+.experience-aria{
+    background-image: url(Images/bgm.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
