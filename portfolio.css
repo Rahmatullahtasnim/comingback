@@ -1,5 +1,8 @@
 body{
-    font-family: 'Source Code Pro', monospace;
+    margin: 0px;
+    font-family: 'Comforter', cursive;
+font-family: 'Rowdies', cursive;
+font-family: 'Source Code Pro', monospace;
 }
 h1{
     font: size 50px;
@@ -15,4 +18,19 @@ h1{
 }
 .Share-side img{
     width: 100%;
+}
+.top-corner{
+    background-image: url(Images/main.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 550px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(238, 135, 234);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
 }
