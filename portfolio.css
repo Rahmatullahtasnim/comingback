@@ -17,7 +17,7 @@ h1{
     padding-left: 1%;
 }
 .Share-side img{
-    width: 100%;
+    width: 80%;
 }
 .top-corner{
     background-image: url(Images/main.png);
@@ -25,13 +25,21 @@ h1{
 }
 section{
     height: 550px;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
-    background-color: rgb(238, 135, 234);
+    background-color: rgba(204, 66, 12, 0.932);
     padding: 10px 20px;
     border-radius: 5px;
-    color: white;
+    color: whitesmoke;
     font-weight: 700;
+}
+.second-part{
+    background-image: url(Images/bgm.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.color{
+    color: rgb(52, 211, 31);
 }
